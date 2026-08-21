@@ -60,7 +60,7 @@ truth = pd.DataFrame({
     "p_true": p_true
 })
 
-output_dir = Path(__file__).resolve().parent / "data"
+output_dir = Path(__file__).resolve().parent
 output_dir.mkdir(exist_ok=True)
 
 observed_path = output_dir / "hospitals.csv"
