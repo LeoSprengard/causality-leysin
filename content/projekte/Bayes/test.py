@@ -1,1 +1,2 @@
 #g
+print("Hello, World!")
