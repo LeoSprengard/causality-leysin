@@ -1,2 +1,0 @@
-#g
-print("Hello, World!")
