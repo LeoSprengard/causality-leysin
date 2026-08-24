@@ -10,7 +10,6 @@ if str(ORDNER) not in sys.path:
 
 # Eigene Logik & Styling importieren
 import analyse  # noqa: E402
-from utils.theming import FARBEN, merkkasten  # noqa: E402
 
 # ------------------------------------------------------------
 # Daten aus analyse.py laden
